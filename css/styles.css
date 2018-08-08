@@ -1,0 +1,11 @@
+#shout {
+  display: none;
+}
+
+#shout p {
+  font-size: 50px;
+}
+
+.form-control {
+  width: 400px;
+}
